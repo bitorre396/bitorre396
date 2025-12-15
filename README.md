@@ -85,6 +85,20 @@ My approach combines the creativity of an artist with the precision of a physici
 
 ---
 
+### 📡 System Metrics: Signal Propagation
+
+<div align="center">
+  <p>Quantifying the validation of the <b>Information-Entropic Navigation (IEN)</b> protocol.</p>
+  
+  <a href="https://github.com/bitorre396/IEN">
+    <img src="https://img.shields.io/github/stars/bitorre396/IEN?style=for-the-badge&color=39FF14&label=VALIDATIONS&logo=github" />
+    <img src="https://img.shields.io/github/forks/bitorre396/IEN?style=for-the-badge&color=blue&label=ADAPTATIONS&logo=github" />
+    <img src="https://img.shields.io/github/watchers/bitorre396/IEN?style=for-the-badge&color=orange&label=OBSERVERS&logo=github" />
+  </a>
+</div>
+
+<br>
+
 <div align="center">
   <p><em>"Engineering the transition from reactive survival to conscious evolution."</em></p>
   <a href="https://x.com/LeonelBritoA">
